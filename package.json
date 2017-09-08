@@ -1,0 +1,23 @@
+{
+  "name": "node-paterns",
+  "version": "1.0.0",
+  "description": "Nodejs most known patterns with definitions and examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/von-berlichingen/node-paterns.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Anis Ben Amara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/von-berlichingen/node-paterns/issues"
+  },
+  "homepage": "https://github.com/von-berlichingen/node-paterns#readme"
+}
